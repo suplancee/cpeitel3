@@ -129,7 +129,7 @@ export default function App() {
       case 'How will I learn?':
         setDisp('CODING AT LEAST 2 HOURS A DAY WITH THE TECHNIQUES OF MR. VELASCO'); break;
       default:
-        setDisp('10 Things That Require Zero Talent');
+        setDisp('C-PEITEL3 EXPECTATIONS');
     }
   }
 
