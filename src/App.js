@@ -31,7 +31,7 @@ function getOperand  (value, temp) {
 
 export default function App() {
 
-  const[disp, setDisp] = useState('10 Things That Require Zero Talent');
+  const[disp, setDisp] = useState('C-PEITEL3 EXPECTATIONS');
   const[num1, setNum1] = useState(0);
   const[num2, setNum2] = useState(0);
   const[oper, setOper] = useState(null);
